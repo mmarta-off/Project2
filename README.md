@@ -1,1 +1,1 @@
-# Project2
+Change color and adjust the width to create your own snowflake!
